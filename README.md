@@ -1,5 +1,4 @@
-Here’s a detailed `README.md` file for your **Week 8 Assignment – Question One**. It explains everything about the project, includes instructions to run the `.sql` file, and notes that this is *Part 1 of 2* of the full assignment.
-
+WEEK 8 DATABASE ASSIGNMENT 
 ---
 
 ### 📄 `README.md`
